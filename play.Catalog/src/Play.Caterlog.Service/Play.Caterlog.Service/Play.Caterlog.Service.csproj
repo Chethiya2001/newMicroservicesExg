@@ -8,14 +8,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="MassTransit.AspNetCore" Version="7.3.1" />
-    <PackageReference Include="MassTransit.RabbitMQ" Version="8.2.3" />
-    <PackageReference Include="Play.Common" Version="1.0.0" />
+    <PackageReference Include="Play.Common" Version="1.0.1" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Play.Caterlog.Contracts\Play.Caterlog.Contracts.csproj" />
+    <ProjectReference Include="..\Play.Caterlog.Contract\Play.Caterlog.Contract.csproj" />
   </ItemGroup>
 
 </Project>

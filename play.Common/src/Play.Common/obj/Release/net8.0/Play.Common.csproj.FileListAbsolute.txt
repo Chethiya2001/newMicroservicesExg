@@ -10,3 +10,4 @@ C:\Users\USER\Desktop\.net\newMicroservices\play.Common\src\Play.Common\obj\Rele
 C:\Users\USER\Desktop\.net\newMicroservices\play.Common\src\Play.Common\obj\Release\net8.0\refint\Play.Common.dll
 C:\Users\USER\Desktop\.net\newMicroservices\play.Common\src\Play.Common\obj\Release\net8.0\Play.Common.pdb
 C:\Users\USER\Desktop\.net\newMicroservices\play.Common\src\Play.Common\obj\Release\net8.0\ref\Play.Common.dll
+C:\Users\USER\Desktop\.net\newMicroservices\play.Common\src\Play.Common\obj\Release\net8.0\Play.Common.sourcelink.json

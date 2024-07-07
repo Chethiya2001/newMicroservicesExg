@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\.net\\newMicroservices\\play.Catalog\\src\\Play.Caterlog.Service\\Play.Caterlog.Service\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EF4796C7-D55F-4258-BBB8-1CB1BA34B5C3}|Play.Caterlog.Service.csproj|c:\\users\\user\\desktop\\.net\\newmicroservices\\play.catalog\\src\\play.caterlog.service\\play.caterlog.service\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF4796C7-D55F-4258-BBB8-1CB1BA34B5C3}|Play.Caterlog.Service.csproj|solutionrelative:controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EF4796C7-D55F-4258-BBB8-1CB1BA34B5C3}|Play.Caterlog.Service.csproj|c:\\users\\user\\desktop\\.net\\newmicroservices\\play.catalog\\src\\play.caterlog.service\\play.caterlog.service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF4796C7-D55F-4258-BBB8-1CB1BA34B5C3}|Play.Caterlog.Service.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,15 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\.net\\newMicroservices\\play.Catalog\\src\\Play.Caterlog.Service\\Play.Caterlog.Service\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ItemsController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\.net\\newMicroservices\\play.Catalog\\src\\Play.Caterlog.Service\\Play.Caterlog.Service\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "Controllers\\ItemsController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T01:24:47.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\.net\\newMicroservices\\play.Catalog\\src\\Play.Caterlog.Service\\Play.Caterlog.Service\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\.net\\newMicroservices\\play.Catalog\\src\\Play.Caterlog.Service\\Play.Caterlog.Service\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T08:44:17.582Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-06T08:44:17.582Z"
             }
           ]
         }

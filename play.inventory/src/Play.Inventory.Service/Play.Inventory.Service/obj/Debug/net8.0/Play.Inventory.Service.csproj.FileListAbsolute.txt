@@ -48,3 +48,4 @@ C:\Users\USER\Desktop\.net\newMicroservices\play.inventory\src\Play.Inventory.Se
 C:\Users\USER\Desktop\.net\newMicroservices\play.inventory\src\Play.Inventory.Service\Play.Inventory.Service\bin\Debug\net8.0\Microsoft.Extensions.Http.Polly.dll
 C:\Users\USER\Desktop\.net\newMicroservices\play.inventory\src\Play.Inventory.Service\Play.Inventory.Service\bin\Debug\net8.0\Polly.dll
 C:\Users\USER\Desktop\.net\newMicroservices\play.inventory\src\Play.Inventory.Service\Play.Inventory.Service\bin\Debug\net8.0\Polly.Extensions.Http.dll
+C:\Users\USER\Desktop\.net\newMicroservices\play.inventory\src\Play.Inventory.Service\Play.Inventory.Service\obj\Debug\net8.0\Play.Inventory.Service.sourcelink.json

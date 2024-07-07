@@ -1,0 +1,12 @@
+C:\Users\USER\Desktop\.net\newMicroservices\play.Catalog\src\Play.Caterlog.Service\Play.Caterlog.Contract\bin\Debug\net8.0\Play.Caterlog.Contract.deps.json
+C:\Users\USER\Desktop\.net\newMicroservices\play.Catalog\src\Play.Caterlog.Service\Play.Caterlog.Contract\bin\Debug\net8.0\Play.Caterlog.Contract.dll
+C:\Users\USER\Desktop\.net\newMicroservices\play.Catalog\src\Play.Caterlog.Service\Play.Caterlog.Contract\bin\Debug\net8.0\Play.Caterlog.Contract.pdb
+C:\Users\USER\Desktop\.net\newMicroservices\play.Catalog\src\Play.Caterlog.Service\Play.Caterlog.Contract\obj\Debug\net8.0\Play.Caterlog.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\.net\newMicroservices\play.Catalog\src\Play.Caterlog.Service\Play.Caterlog.Contract\obj\Debug\net8.0\Play.Caterlog.Contract.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\.net\newMicroservices\play.Catalog\src\Play.Caterlog.Service\Play.Caterlog.Contract\obj\Debug\net8.0\Play.Caterlog.Contract.AssemblyInfo.cs
+C:\Users\USER\Desktop\.net\newMicroservices\play.Catalog\src\Play.Caterlog.Service\Play.Caterlog.Contract\obj\Debug\net8.0\Play.Caterlog.Contract.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\.net\newMicroservices\play.Catalog\src\Play.Caterlog.Service\Play.Caterlog.Contract\obj\Debug\net8.0\Play.Caterlog.Contract.sourcelink.json
+C:\Users\USER\Desktop\.net\newMicroservices\play.Catalog\src\Play.Caterlog.Service\Play.Caterlog.Contract\obj\Debug\net8.0\Play.Caterlog.Contract.dll
+C:\Users\USER\Desktop\.net\newMicroservices\play.Catalog\src\Play.Caterlog.Service\Play.Caterlog.Contract\obj\Debug\net8.0\refint\Play.Caterlog.Contract.dll
+C:\Users\USER\Desktop\.net\newMicroservices\play.Catalog\src\Play.Caterlog.Service\Play.Caterlog.Contract\obj\Debug\net8.0\Play.Caterlog.Contract.pdb
+C:\Users\USER\Desktop\.net\newMicroservices\play.Catalog\src\Play.Caterlog.Service\Play.Caterlog.Contract\obj\Debug\net8.0\ref\Play.Caterlog.Contract.dll

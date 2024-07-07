@@ -5,7 +5,7 @@
   },
   "projects": {
     "C:\\Users\\USER\\Desktop\\.net\\newMicroservices\\play.Common\\src\\Play.Common\\Play.Common.csproj": {
-      "version": "1.0.0",
+      "version": "1.0.1",
       "restore": {
         "projectUniqueName": "C:\\Users\\USER\\Desktop\\.net\\newMicroservices\\play.Common\\src\\Play.Common\\Play.Common.csproj",
         "projectName": "Play.Common",
@@ -47,6 +47,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "MassTransit.AspNetCore": {
+              "target": "Package",
+              "version": "[7.3.1, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.2.3, )"
+            },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
               "version": "[8.0.0, )"

@@ -526,9 +526,11 @@
           }
         }
       },
-      "Play.Common/1.0.0": {
+      "Play.Common/1.0.1": {
         "type": "package",
         "dependencies": {
+          "MassTransit.AspNetCore": "7.3.1",
+          "MassTransit.RabbitMQ": "8.2.3",
           "Microsoft.Extensions.Configuration": "8.0.0",
           "Microsoft.Extensions.Configuration.Binder": "8.0.1",
           "Microsoft.Extensions.DependencyInjection": "8.0.0",
@@ -761,14 +763,14 @@
           "lib/net7.0/ZstdSharp.dll": {}
         }
       },
-      "Play.Caterlog.Contracts/1.0.0": {
+      "Play.Caterlog.Contract/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
-          "bin/placeholder/Play.Caterlog.Contracts.dll": {}
+          "bin/placeholder/Play.Caterlog.Contract.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Play.Caterlog.Contracts.dll": {}
+          "bin/placeholder/Play.Caterlog.Contract.dll": {}
         }
       }
     }
@@ -1775,14 +1777,14 @@
         "runtimes/win/native/mongocrypt.dll"
       ]
     },
-    "Play.Common/1.0.0": {
-      "sha512": "FB5DL6csP6C1MVnm1NGNvItWJEbSKWnKcu10eekghjihYKwduQH6Ayopy+vQOOSA7qBQlL1G8bsHrIT0zyVx0A==",
+    "Play.Common/1.0.1": {
+      "sha512": "gmU/YUWw3KkQiyCepfwD6s/dGrS/kooUZBnTSTWRWwhPMQERhgQyfQe4JRO7MKyL/UgU7hRNcW3BsVBCSnH62Q==",
       "type": "package",
-      "path": "play.common/1.0.0",
+      "path": "play.common/1.0.1",
       "files": [
         ".nupkg.metadata",
         "lib/net8.0/Play.Common.dll",
-        "play.common.1.0.0.nupkg.sha512",
+        "play.common.1.0.1.nupkg.sha512",
         "play.common.nuspec"
       ]
     },
@@ -2184,18 +2186,16 @@
         "zstdsharp.port.nuspec"
       ]
     },
-    "Play.Caterlog.Contracts/1.0.0": {
+    "Play.Caterlog.Contract/1.0.0": {
       "type": "project",
-      "path": "../Play.Caterlog.Contracts/Play.Caterlog.Contracts.csproj",
-      "msbuildProject": "../Play.Caterlog.Contracts/Play.Caterlog.Contracts.csproj"
+      "path": "../Play.Caterlog.Contract/Play.Caterlog.Contract.csproj",
+      "msbuildProject": "../Play.Caterlog.Contract/Play.Caterlog.Contract.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "MassTransit.AspNetCore >= 7.3.1",
-      "MassTransit.RabbitMQ >= 8.2.3",
-      "Play.Caterlog.Contracts >= 1.0.0",
-      "Play.Common >= 1.0.0",
+      "Play.Caterlog.Contract >= 1.0.0",
+      "Play.Common >= 1.0.1",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
   },
@@ -2228,8 +2228,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\USER\\Desktop\\.net\\newMicroservices\\play.Catalog\\src\\Play.Caterlog.Service\\Play.Caterlog.Contracts\\Play.Caterlog.Contracts.csproj": {
-              "projectPath": "C:\\Users\\USER\\Desktop\\.net\\newMicroservices\\play.Catalog\\src\\Play.Caterlog.Service\\Play.Caterlog.Contracts\\Play.Caterlog.Contracts.csproj"
+            "C:\\Users\\USER\\Desktop\\.net\\newMicroservices\\play.Catalog\\src\\Play.Caterlog.Service\\Play.Caterlog.Contract\\Play.Caterlog.Contract.csproj": {
+              "projectPath": "C:\\Users\\USER\\Desktop\\.net\\newMicroservices\\play.Catalog\\src\\Play.Caterlog.Service\\Play.Caterlog.Contract\\Play.Caterlog.Contract.csproj"
             }
           }
         }
@@ -2249,17 +2249,9 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
-          "MassTransit.AspNetCore": {
-            "target": "Package",
-            "version": "[7.3.1, )"
-          },
-          "MassTransit.RabbitMQ": {
-            "target": "Package",
-            "version": "[8.2.3, )"
-          },
           "Play.Common": {
             "target": "Package",
-            "version": "[1.0.0, )"
+            "version": "[1.0.1, )"
           },
           "Swashbuckle.AspNetCore": {
             "target": "Package",
