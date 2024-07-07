@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Play.Caterlog.Service.props" />
+</Project>

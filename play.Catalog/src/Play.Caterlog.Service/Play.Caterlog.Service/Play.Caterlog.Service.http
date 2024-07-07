@@ -1,0 +1,6 @@
+@Play.Caterlog.Service_HostAddress = http://localhost:5001
+
+GET {{Play.Caterlog.Service_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
